@@ -1,0 +1,42 @@
+Question,Answer
+What is cricket?: Cricket is a bat-and-ball team sport that is popular in many countries, especially in England, Australia, India, and Pakistan. It is played between two teams, with the objective of scoring runs while also dismissing the opposing team's batsmen.
+How many players are there on a cricket team?: In a standard cricket team, there are 11 players.
+What are the basic elements of a cricket match?: A cricket match consists of two teams taking turns to bat and bowl. The team batting tries to score runs, while the team bowling and fielding attempts to dismiss the batsmen.
+What is a cricket pitch?:A cricket pitch is the rectangular area in the center of the field where the bowler delivers the ball, and the batsmen stand to score runs. It is 22 yards (20.12 meters) in length.
+What is an over in cricket?:An over is a set of six deliveries (bowled by the same bowler) in cricket. It is a standard unit of measuring the game.
+How is a batsman dismissed in cricket?:A batsman can be dismissed in various ways, including being bowled, caught, run out, stumped, or leg before wicket (LBW). These methods involve either the bowler or the fielding team getting the batsman out.
+What are the two forms of international cricket?:The two main forms of international cricket are Test cricket, which is the longest format, and One Day International (ODI) cricket, which is a limited-overs format.
+What is the role of the captain in a cricket team?:The captain is responsible for making tactical decisions during a match, such as field placements, bowling changes, and declaring an innings. They also represent the team in discussions with match officials.
+What is a century in cricket?:In cricket, a century refers to a batsman scoring 100 or more runs in a single inning. It is considered a significant achievement in the sport.
+What is the purpose of the cricket umpires?:Umpires are responsible for enforcing the rules, making decisions on dismissals, and ensuring fair play during a cricket match. There are two on-field umpires in a standard game.
+How many players are there on a cricket team?: 11.
+What do you call the set of three wooden stumps and 2 small sticks in cricket?: A wicket
+How do the captains usually decide which team will bat first?: A coin toss.
+What color kit do Test cricket players normally wear?: White.
+What is a cricket ball made out of?: Leather.
+What is a cricket ball?: A cricket ball is a hard, solid ball used to play cricket. A cricket ball consists of a cork core wound with string then a leather cover stitched on, and manufacture is regulated by cricket law at first-class level.
+Which country's cricket team has won the most international trophies?: Australia.
+In what country did cricket come from?: England.
+What are the different parts of the match called?: Innings.
+What is a cricket bat made of?: Wood (usually willow).
+What is the primary job of the player known as the "wicketkeeper" in a cricket team?: To stand behind the stumps and catch the ball, as well as to stump batsmen.
+What is the maximum number of overs a bowler can bowl in a One Day International (ODI) match?: 10 overs.
+What happens if a batsman hits the ball over the boundary without it touching the ground in a single stroke?: It's called a six, and the batting team is awarded six runs.
+What is the rectangular area marked on the ground where the batsmen stand to face the bowler?: The crease.
+How many runs is a batsman awarded if they hit the ball and run to the opposite end of the pitch?: One run.
+What do we call it when a bowler takes three wickets with three consecutive deliveries?: A hat-trick.
+What is the term for a match where both teams score the exact same number of runs?: A tie.
+What is the purpose of the bails on the stumps in cricket?: To determine if the stumps are disturbed, signaling the dismissal of a batsman.
+How many runs is awarded to the batting team if the bowler delivers a no-ball?: One run.
+What is the cricket pitch made of?: It is usually made of a combination of clay and natural turf.
+What is the main objective for the batting team in cricket?: To score as many runs as possible by hitting the ball and running between the wickets.
+How does a bowler try to dismiss a batsman in cricket?: By either getting the batsman out bowled, caught, leg before wicket (LBW), or through other means like run-out or stumping.
+What is the role of fielders in cricket?: To stop the ball, prevent runs, and take catches to dismiss batsmen.
+How do cricket players communicate on the field?: Through signals and shouts to coordinate fielding positions and relay information about the game situation.
+What is a run-out in cricket?: When the fielding team successfully gets the ball to the stumps before a batsman reaches the crease, resulting in the batsman being out.
+How does a batsman defend their wicket?: By using the cricket bat to block or hit the ball away from the stumps.
+What is the role of the umpires in cricket?: To make decisions on the field, such as signaling boundaries, dismissals, and ensuring fair play.
+How is a cricket match divided into sessions?: Into innings, with each team having a turn to bat and bowl.
+What is the signal for a wide ball in cricket?: When the umpire extends one arm horizontally.
+How do players decide who bats and bowls in a cricket team?: The team captain decides the batting order, and the coach or captain decides the bowling order based on player skills and match conditions.
+How is Cricket played?: Cricket is played by two teams of 11, with one side taking a turn to bat a ball and score runs, while the other team will bowl and field the ball to restrict the opposition from scoring.
